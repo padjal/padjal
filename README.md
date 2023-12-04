@@ -2,4 +2,4 @@
 
 ### 🔗 Links 
 [CV](Dzhalev_Pavel_CV_July_23.pdf)
-[LinkedIn]([Dzhalev_Pavel_CV_July_23.pdf](https://www.linkedin.com/in/paveldzhalev/)https://www.linkedin.com/in/paveldzhalev/)
+[LinkedIn](https://www.linkedin.com/in/paveldzhalev/)
