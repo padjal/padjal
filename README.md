@@ -14,5 +14,5 @@
 ### Projects
 More information comming soon. In the meantime, you can check my public repositories.
 
-![Pavel's GitHub stats](https://github-readme-stats.vercel.app/api?username=padjal)
+![Pavel's GitHub stats](https://github-readme-stats.vercel.app/api?username=padjal&theme=dark)
 
