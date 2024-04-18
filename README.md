@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Pavel. I am a 4th year software engineering student in the Faculty of CS in HSE, Moscow and a developer @Sofia Drafting, Hexagon.
 
-[![Pavel's GitHub stats](https://github-readme-stats.vercel.app/api?username=padjal)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 🔗 Links 
 |CV|LinkedIn|
 |:--:|:------:|
@@ -13,5 +11,8 @@
 - Databases: MS SQL, Postgres, Firebase
 - Devops: git, AWS
 
+### Projects
+More information comming soon. In the meantime, you can check my public repositories.
 
+![Pavel's GitHub stats](https://github-readme-stats.vercel.app/api?username=padjal)
 
