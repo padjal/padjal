@@ -11,7 +11,7 @@
 - Databases: MS SQL, Postgres, Firebase
 - Devops: git, AWS
 
-### Projects
+### 📊 Projects
 More information comming soon. In the meantime, you can check my public repositories.
 
 ![Pavel's GitHub stats](https://github-readme-stats.vercel.app/api?username=padjal&theme=dark)
