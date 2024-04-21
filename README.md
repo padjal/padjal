@@ -9,7 +9,7 @@
 - Backend: C# - .NET Winforms, WPF, ASP, Blazor, Java, C++, solidity
 - Frontend: HTML, CSS, React, Flutter
 - Databases: MS SQL, Postgres, Firebase
-- Devops: git, AWS
+- Devops: git, Azure DevOps, AWS, CI & CD Workflows
 
 ### 📊 Projects
 More information comming soon. In the meantime, you can check my public repositories.
