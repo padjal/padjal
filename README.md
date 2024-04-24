@@ -7,7 +7,8 @@
 
 ### 🧑‍💻 Stack
 - Backend: C# - .NET Winforms, WPF, ASP, Blazor, Java, C++, solidity
-- Frontend: HTML, CSS, React, Flutter
+- Frontend: HTML, CSS, React, Blazor
+- Mobile: Flutter, Android
 - Databases: MS SQL, Postgres, Firebase
 - Devops: git, Azure DevOps, AWS, CI & CD Workflows
 
