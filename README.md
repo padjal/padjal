@@ -10,8 +10,7 @@
 - Frontend: HTML, CSS, React, Blazor
 - Mobile: Flutter, Android
 - Databases: MS SQL, Oracle, Postgres, Firebase
-- CMS: Wordpress
-- Devops: git, Azure DevOps, GitHub, AWS, CI & CD Workflows
+- Devops: git, Azure DevOps, GitHub, AWS (EC2, RDS), GCloud (Compute Engine, SQL), CI & CD Workflows
 
 ### 📊 Projects
 More information comming soon. In the meantime, you can check my public repositories.
